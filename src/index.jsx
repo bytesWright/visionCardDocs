@@ -47,7 +47,7 @@ render(() =>
                 <Navbar bg="dark-subtle" expand="md" sticky="top">
                     <Container>
                         <Navbar.Brand>
-                            <svg-wrapper class="icon" href="/src/assets/icons/m-logo.svg"/>
+                            <svg-wrapper class="icon" href="/assets/icons/m-logo.svg"/>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">

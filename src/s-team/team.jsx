@@ -7,7 +7,7 @@ export default function Team() {
             <section class="info row ps-5 ps-md-0 mt-md-5">
                 <div class="col-auto image-name d-none d-md-block ms-0 ps-0">
                     <div class="image-wrapper ps-0">
-                        <img class="image" src="/src/assets/images/people/david-garcia.png" alt="Picture of David Garcia"/>
+                        <img class="image" src="/public/assets/images/people/david-garcia.png" alt="Picture of David Garcia"/>
                     </div>
                     <div class="name">
                         David Garcia

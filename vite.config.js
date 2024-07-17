@@ -3,7 +3,7 @@ import solidPlugin from 'vite-plugin-solid';
 // import devtools from 'solid-devtools/vite';
 
 export default defineConfig({
-  base:"https://github.com/bytesWright/visionCardDocs",
+  base:"https://byteswright.github.io/visionCardDocs/",
   plugins: [
     /* 
     Uncomment the following line to enable solid-devtools.

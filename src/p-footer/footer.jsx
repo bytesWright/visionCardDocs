@@ -8,9 +8,9 @@ export default function Footer() {
                     <div className="col">
                         <h5>Social</h5>
                         <ul className="row gx-2">
-                            <li className="col"><a><svg-wrapper className="icon" href="/assets/icons/x-cr.svg"/></a></li>
-                            <li className="col"><a><svg-wrapper className="icon" href="/assets/icons/linkedin-cr.svg"/></a></li>
-                            <li className="col"><a><svg-wrapper className="icon" href="/assets/icons/github-cr.svg"/></a></li>
+                            <li className="col"><a><svg-wrapper className="icon" href="/visionCardDocs/assets/icons/x-cr.svg"/></a></li>
+                            <li className="col"><a><svg-wrapper className="icon" href="/visionCardDocs/assets/icons/linkedin-cr.svg"/></a></li>
+                            <li className="col"><a><svg-wrapper className="icon" href="/visionCardDocs/assets/icons/github-cr.svg"/></a></li>
                         </ul>
                     </div>
 

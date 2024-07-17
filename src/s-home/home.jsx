@@ -4,7 +4,7 @@ export default function Home() {
     return (
         <main className="Home container">
             <section className="title">
-                <svg-wrapper className="card-logo" href="/src/assets/icons/p-logo.svg"/>
+                <svg-wrapper className="card-logo" href="/src/visionCardDocs/assets/icons/p-logo.svg"/>
                 <h1>
                     VisionCard AI V0.1<br/>
                     Open source

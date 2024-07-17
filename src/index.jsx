@@ -30,13 +30,13 @@ if (window.matchMedia) {
 }
 
 const routes = [{
-    path: "/",
+    path: "/visionCardDocs/",
     component: lazy(() => import("./s-home/home.jsx"))
 }, {
-    path: "/team",
+    path: "/visionCardDocs/team",
     component: lazy(() => import("./s-team/team.jsx"))
 },{
-    path: "/download",
+    path: "/visionCardDocs/download",
     component: lazy(() => import("./s-download/download.jsx"))
 }]
 
@@ -47,14 +47,14 @@ render(() =>
                 <Navbar bg="dark-subtle" expand="md" sticky="top">
                     <Container>
                         <Navbar.Brand>
-                            <svg-wrapper class="icon" href="/assets/icons/m-logo.svg"/>
+                            <svg-wrapper class="icon" href="/visionCardDocs/visionCardDocs/assets/icons/m-logo.svg"/>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav class="me-auto">
-                                <Nav.Link href="/">Home</Nav.Link>
-                                <Nav.Link href="/team">Team</Nav.Link>
-                                <Nav.Link href="/download">Download</Nav.Link>
+                                <Nav.Link href="/visionCardDocs/">Home</Nav.Link>
+                                <Nav.Link href="/visionCardDocs/team">Team</Nav.Link>
+                                <Nav.Link href="/visionCardDocs/download">Download</Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>

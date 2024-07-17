@@ -1,0 +1,23 @@
+.Home
+  $line-multiplier: 2.4
+
+  .card-logo
+    $height: calc((1.375rem + 1.5vw) * $line-multiplier)
+    width: calc($height * 1.416)
+    height: $height
+    margin-right: 2rem
+
+  @media (min-width: 1200px)
+    .card-logo
+      $height: calc(2.5rem * $line-multiplier)
+      width: calc($height * 1.416)
+      height: $height
+
+
+
+  section.title
+    display: flex
+    align-items: center
+    margin: 4rem 0
+
+

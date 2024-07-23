@@ -6,13 +6,13 @@ export default function Home() {
             <section className="title">
                 <svg-wrapper className="card-logo" href="/src/visionCardDocs/assets/icons/p-logo.svg"/>
                 <h1>
-                    VisionCard AI V0.1<br/>
+                    VisionCard AI V0.3.1<br/>
                     Open source
                 </h1>
             </section>
             <section className="info">
-                <p>Our V0.1 model is trained using synthetic data generated with Blender, Python, and other open-source tools. It accurately detects traditional credit card designs, identifying the
-                    front of credit cards and text lines in images.</p>
+                <p>Our V0.3.1 model is trained using synthetic data generated with Blender, Python, and other open-source tools. It accurately detects traditional credit card designs, identifying the
+                    front and back faces, text lines, chip, and magnetic band in images.</p>
                 <p>The model, along with the dataset and tools used to create it, are freely available for download under the Apache License Version 2.0. You are welcome to modify and distribute these
                     components as needed.</p>
                 <p>We kindly request that you notify us if you plan to use these components or modified versions in a product, research project, or any other initiative that adds value. This helps us

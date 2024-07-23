@@ -1,6 +1,6 @@
 /* @refresh reload */
 import {render} from 'solid-js/web';
-import {Router} from "@solidjs/router";
+import {HashRouter} from "@solidjs/router";
 import {lazy} from "solid-js";
 import {SvgWrapper} from "./webComponents/SvgWrapper";
 
@@ -30,13 +30,13 @@ if (window.matchMedia) {
 }
 
 const routes = [{
-    path: "/visionCardDocs/",
+    path: "/",
     component: lazy(() => import("./s-home/home.jsx"))
 }, {
-    path: "/visionCardDocs/team",
+    path: "/team",
     component: lazy(() => import("./s-team/team.jsx"))
-},{
-    path: "/visionCardDocs/download",
+}, {
+    path: "/download",
     component: lazy(() => import("./s-download/download.jsx"))
 }]
 
@@ -52,15 +52,15 @@ render(() =>
                         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
                         <Navbar.Collapse id="basic-navbar-nav">
                             <Nav class="me-auto">
-                                <Nav.Link href="/visionCardDocs/">Home</Nav.Link>
-                                <Nav.Link href="/visionCardDocs/team">Team</Nav.Link>
-                                <Nav.Link href="/visionCardDocs/download">Download</Nav.Link>
+                                <Nav.Link href="/">Home</Nav.Link>
+                                <Nav.Link href="/team">Team</Nav.Link>
+                                <Nav.Link href="/download">Download</Nav.Link>
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
                 </Navbar>
             </header>
-            <Router>{routes}</Router>
+            <HashRouter>{routes}</HashRouter>
             <Footer></Footer>
         </>
     , document.body);

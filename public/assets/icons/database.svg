@@ -7,49 +7,34 @@
    viewBox="0 0 26.987502 33.337502"
    version="1.1"
    id="svg1"
+   xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <linearGradient
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
        id="swatch90"
-       gradientTransform="matrix(0.36044622,0,0,0.24067016,-262.83045,978.59892)">
-      <stop
+       gradientTransform="matrix(0.36044622,0,0,0.24067016,-262.83045,978.59892)"><stop
          style="stop-color:#060608;stop-opacity:1;"
          offset="0"
-         id="stop90" />
-    </linearGradient>
-    <linearGradient
+         id="stop90" /></linearGradient><linearGradient
        id="swatch40"
-       gradientTransform="matrix(0.69793163,0,0,1.0871311,-1201.5046,4614.5142)">
-      <stop
+       gradientTransform="matrix(0.69793163,0,0,1.0871311,-1201.5046,4614.5142)"><stop
          style="stop-color:#b0e3ff;stop-opacity:1;"
          offset="0"
-         id="stop40" />
-    </linearGradient>
-  </defs>
-  <g
+         id="stop40" /></linearGradient></defs><g
      id="layer7"
-     transform="translate(-37.240881)">
-    <g
+     transform="translate(-37.240881)"><g
        id="g2-3"
        transform="matrix(0.5877365,0,0,0.5877365,41.330847,7.2649673)"
-       style="display:inline;fill-opacity:1;stroke-width:0.450174">
-      <path
+       style="display:inline;fill-opacity:1;stroke-width:0.450174"><path
          d="M 5,12.4 V 16 c 0,3.4 4.8,6 11,6 6.2,0 11,-2.6 11,-6 V 12.4 C 24.8,14.6 20.8,16 16,16 11.2,16 7.2,14.6 5,12.4 Z"
          id="path1"
-         style="fill-opacity:1;stroke-width:0.450174" />
-      <path
+         style="fill-opacity:1;stroke-width:0.450174" /><path
          d="M 5,20.4 V 24 c 0,3.4 4.8,6 11,6 6.2,0 11,-2.6 11,-6 V 20.4 C 24.8,22.6 20.8,24 16,24 11.2,24 7.2,22.6 5,20.4 Z"
          id="path2-6"
-         style="fill-opacity:1;stroke-width:0.450174" />
-      <ellipse
+         style="fill-opacity:1;stroke-width:0.450174" /><ellipse
          cx="16"
          cy="8"
          rx="11"
          ry="6"
          id="ellipse2"
-         style="fill-opacity:1;stroke-width:0.450174" />
-    </g>
-  </g>
-</svg>
+         style="fill-opacity:1;stroke-width:0.450174" /></g></g></svg>

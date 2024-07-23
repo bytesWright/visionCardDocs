@@ -7,34 +7,23 @@
    viewBox="0 0 26.987502 33.337502"
    version="1.1"
    id="svg1"
+   xml:space="preserve"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs1">
-    <linearGradient
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs1"><linearGradient
        id="swatch90"
-       gradientTransform="matrix(0.36044622,0,0,0.24067016,-262.83045,978.59892)">
-      <stop
+       gradientTransform="matrix(0.36044622,0,0,0.24067016,-262.83045,978.59892)"><stop
          style="stop-color:#060608;stop-opacity:1;"
          offset="0"
-         id="stop90" />
-    </linearGradient>
-    <linearGradient
+         id="stop90" /></linearGradient><linearGradient
        id="swatch40"
-       gradientTransform="matrix(0.69793163,0,0,1.0871311,-1201.5046,4614.5142)">
-      <stop
+       gradientTransform="matrix(0.69793163,0,0,1.0871311,-1201.5046,4614.5142)"><stop
          style="stop-color:#b0e3ff;stop-opacity:1;"
          offset="0"
-         id="stop40" />
-    </linearGradient>
-  </defs>
-  <g
+         id="stop40" /></linearGradient></defs><g
      id="layer8"
-     transform="translate(-334.15441)">
-    <path
+     transform="translate(-334.15441)"><path
        id="rect37"
        style="display:inline;fill-rule:nonzero"
        d="m 315.36891,-10.583334 v 33.337501 h 26.9875 v -33.337501 z m 13.49375,8.466667 v 2.15697434 c -2.52075,2.15018786 -5.34127,4.72979186 -5.34127,7.26208926 0,2.9451874 2.39605,5.3417934 5.34127,5.3417934 2.94524,0 5.3418,-2.396606 5.3418,-5.3417934 0,-1.4085585 -0.56001,-2.735108 -1.52394,-3.723287 l 1.2268,-1.1043254 c 1.23224,1.2873187 1.94045,3.0077743 1.94045,4.8276124 0,3.8516064 -3.13345,6.9851034 -6.98511,6.9851034 -3.85163,0 -6.9851,-3.133497 -6.9851,-6.9851034 0,-3.4999465 3.62099,-6.56759706 6.53087,-9.0325239 0.15577,-0.1317499 0.30387,-0.2583098 0.45423,-0.3865397 z m 2.46549,2.43396003 c 0.45401,0 0.82165,0.36764576 0.82165,0.82165527 0,0.4540396 -0.36764,0.8221721 -0.82165,0.8221721 -0.45406,0 -0.82166,-0.3681325 -0.82166,-0.8221721 0,-0.45400951 0.3676,-0.82165527 0.82166,-0.82165527 z"
-       transform="translate(18.785379,10.583334)" />
-  </g>
-</svg>
+       transform="translate(18.785379,10.583334)" /></g></svg>

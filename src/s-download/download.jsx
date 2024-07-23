@@ -3,7 +3,7 @@ import './download.sass';
 export default function Download() {
     return (<main className="Download container align-items-center justify-content-center">
         <section className="info">
-            <h1>V0.3</h1>
+            <h1>V0.3.1</h1>
             <div className="options">
                 <div class="option">
                     <a href="https://huggingface.co/bytesWright/creditCardDetection/resolve/main/model-float-32.tflite?download=true">
